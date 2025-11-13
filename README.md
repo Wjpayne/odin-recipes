@@ -1,3 +1,3 @@
 # odin-recipes
 
-First odin project assignment on creating a simple html page
+First odin project assignment on creating a simple html pagegit add
