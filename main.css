@@ -1,0 +1,13 @@
+* {
+  color: white; /* or #FFFFFF */
+}
+body {
+  font-family: Arial, sans-serif;
+  background-color: black;
+  color: white;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+li {
+  margin: 5px;
+}
